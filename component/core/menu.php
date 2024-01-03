@@ -98,7 +98,7 @@ if($chmenu5 >= 1 || $_SESSION['jabatan'] == 'admin'){ ?>
                        <a href="stok_keluar"><i class="fa fa-circle-o"></i>Barang Keluar</a>
                     </li>
                      <li>
-                       <a href="surat_kelola"><i class="fa fa-circle-o"></i>Surat Jalan</a>
+                       <a href="surat_kelola"><i class="fa fa-circle-o"></i>Surat</a>
                     </li>
 
                     <li>

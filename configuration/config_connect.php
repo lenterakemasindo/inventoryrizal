@@ -1,6 +1,10 @@
 <?php
 
 error_reporting(E_ALL ^ E_DEPRECATED);
+// $servername = "localhost";
+// $username = "root";
+// $password = "";
+// $dbname="inventory";
 $servername = "localhost";
 $username = "root";
 $password = "";
